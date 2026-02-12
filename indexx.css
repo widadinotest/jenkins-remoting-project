@@ -1,0 +1,33 @@
+p {
+    color: blue;
+    font-size: 18px;
+}
+.box{
+    background-color: blue;
+    padding: 10px;
+}
+#titre-principal {
+    color: red;
+}
+
+#description {
+    font-style: italic;
+}
+
+#titre-principal {
+    color: red;
+}
+p.important {
+    color: orange;
+    font-weight: bold;
+}
+button:hover {
+    background-color: blue;
+    color: white;
+}
+input::placeholder {
+    color: gray;
+    font-style: italic;
+}
+
+
